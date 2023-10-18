@@ -17,4 +17,5 @@ w.x.y.z, Bengaluru, Karnataka, Bharti Airtel Ltd., Telemedia Services
 myip relies on the following tools and libraries:
 
 curl: Used to fetch your IP information from "ipinfo.io."
+
 jq: Used to parse the JSON response and extract specific details.
