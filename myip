@@ -1,0 +1,6 @@
+myip() {
+  curl -s https://ipinfo.io | jq -r '.ip, .city, .region, .org'
+}
+
+## Copy the above function and paste it in your ~/.bashrc or ~/.bash_profile
+## source the bashrc if needed.
