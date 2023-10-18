@@ -6,6 +6,12 @@ To use myip, simply run it in your terminal:
 $ myip
 
 This command will fetch and display your public IP address, city, region, and ISP name.
+E.g.
+
+$ myip
+
+w.x.y.z, Bengaluru, Karnataka, Bharti Airtel Ltd., Telemedia Services
+
 
 ## Dependencies
 myip relies on the following tools and libraries:
